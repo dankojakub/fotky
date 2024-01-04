@@ -1,0 +1,12 @@
+name: svadobneFotky
+title: svadobneFotky
+username: jakubdanko
+account: jakubdanko
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10588501
+bundleId: 8057751
+url: https://jakubdanko.shinyapps.io/svadobneFotky/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

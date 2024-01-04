@@ -1,0 +1,12 @@
+name: svadobnefotky
+title: svadobneFotky
+username: jakubdanko
+account: jakubdanko
+server: posit.cloud
+hostUrl: https://api.posit.cloud/v1
+appId: 7139675
+bundleId: 8051978
+url: https://posit.cloud/content/7139675
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
